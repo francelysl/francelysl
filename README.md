@@ -66,7 +66,7 @@ As an Aspiring Software Engineer, I’ve spent three years as a Software Develop
   <img src="https://img.shields.io/badge/Version%20Control-F05033?style=for-the-badge&logo=git&logoColor=white"/> 
 </p>
 
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francelysl)](https://github.com/francelysl/github-readme-stats)
 
 <!-- PINNED PROJECTS -->
 ## Pinned
